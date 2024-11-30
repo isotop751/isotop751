@@ -5,15 +5,15 @@
 
 Here are some ideas to get you started:
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isotop751&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekbagdiya01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isotop751&label=Profile%20views&color=0e75b6&style=flat" alt="isotop" /> </p>
 
-- 🔭 I’m currently working on : sleep, dream, enlightment.
-- 🌱 I’m currently learning : Hmm, enlighten me
+- 🔭 I’m currently working on : sleep, dream, wake up to reality.
+- 🌱 I’m currently learning : Hmmm, enlighten me
 - 👯 I’m looking to collaborate on : rust, go, java, python, js
-- 🤔 I’m looking for help with : catnip
-- 💬 Ask me about : isotopes
-- 📫 How to reach me: umm, look under your bead ??!!
-- 😄 Pronouns: ...
+- 🤔 I’m looking for help with : catnip, yes catnip !!
+- 💬 Ask me about : isotopes of atoms
+- 📫 How to reach me: umm, look under your bed ??!!
+- 😄 Pronouns: ...Human
 - ⚡ Fun fact: I am not cat, 🐱
 
   
